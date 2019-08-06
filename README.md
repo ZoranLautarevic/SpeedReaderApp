@@ -1,1 +1,2 @@
 # SpeedReaderApp
+WORK IN PROGRESS!!!
